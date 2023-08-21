@@ -1,9 +1,9 @@
-# Repository for RIPE Atlas Experiments Setup Guide
+# RIPE-Atlas Experiments Setup Guide
 
 This repository contains the accompanying code and resources for the guide, which aims to provide you 
 with step-by-step instructions on setting up RIPE Atlas experiments.
 
-## Repository Contents
+## User-Guide Contents
 
 This repository contains the following:
 
