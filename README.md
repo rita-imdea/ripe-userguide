@@ -20,8 +20,8 @@ Most of the work is done in the Jupyter notebook. The matlab script will help yo
 
 If you have any questions, feedback, or inquiries about the setup guide or this repository, please feel free to reach out to our team using the following email addresses:
 
-- For technical inquiries: [tech@example.com](mailto:rita.ingabire@imdea.org)
-- For technical inquiries: [info@example.com](mailto:antonio.bazco@imdea.org)
+- For technical inquiries: [rita.ingabire@imdea.org](mailto:rita.ingabire@imdea.org)
+- For technical inquiries: [antonio.bazco@imdea.org](mailto:antonio.bazco@imdea.org)
 
 
 ---
