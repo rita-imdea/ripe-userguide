@@ -10,12 +10,11 @@ This repository contains the following:
 **skeleton.ipynb:** This Jupyter notebook contains all the basic code you need to set up your experiments, retrieve
 the experiment files and do some analysis.
   
-**PoA_student_workshop:** This contains the matlab code for probalistic analysis of latency when servers accessed are 
-centralised or distributed.
+**PoA_student_workshop:** This contains the Matlab code which utilizes the latency data for planning out load balancing in a network of cloud servers.
 
 ## How to Use This Repository
 
-Most of the work is done in the Jupyter notebook. The matlab script will help you extend the experiments into real life scenarios
+Most of the work is done in the Jupyter Notebook. The Matlab script will help you extend the experiments into real-life scenarios
 ## Contact
 
 If you have any questions, feedback, or inquiries about the setup guide or this repository, please feel free to reach out to our team using the following email addresses:
@@ -25,5 +24,3 @@ If you have any questions, feedback, or inquiries about the setup guide or this 
 
 
 ---
-
-*Note: The setup guide and code samples provided in this repository are intended for educational and experimental purposes. Please use them responsibly and in compliance with relevant guidelines and policies.*
