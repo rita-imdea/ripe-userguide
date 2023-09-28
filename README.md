@@ -12,7 +12,7 @@ the experiment files and do some analysis.
   
 **PoA_student_workshop:** This contains the Matlab code which utilizes the latency data for planning out load balancing in a network of cloud servers.
 
-**RIPE-ATLAS-measurement-***.json** These are sample experiment files if you do not wish to create your own measurements
+**RIPE-ATLAS-measurement-4881990*.json** These are sample experiment files if you do not wish to create your own measurements
 
 ## How to Use This Repository
 
