@@ -1,18 +1,20 @@
 # RIPE-Atlas Experiments Setup Guide
 
-This repository contains the accompanying code and resources for the guide, which aims to provide you 
-with step-by-step instructions on setting up RIPE Atlas experiments.
+This repository contains the accompanying code and resources for the guide, which aims to provide you with step-by-step instructions for setting up RIPE Atlas experiments.
 
 ## User-Guide Contents
 
 This repository contains the following:
 
-**skeleton.ipynb:** This Jupyter notebook contains all the basic code you need to set up your experiments, retrieve
-the experiment files and do some analysis.
+**createMeasurement.ipynb:** This Jupyter notebook contains all the basic code if you wish to set up your own experiments.
+
+**skeleton.ipynb:** This Jupyter notebook contains all the basic code you need to retrieve the experiment files and perform some analysis on the measurements.
+
+**list-*.csv** These are sample probe and destinations you can use with the notebook.
+
+**RIPE-ATLAS-measurement-*.json** These are sample experiment files if you do not wish to create your own measurements
   
 **PoA_student_workshop:** This contains the Matlab code which utilizes the latency data for planning out load balancing in a network of cloud servers.
-
-**RIPE-ATLAS-measurement-4881990*.json** These are sample experiment files if you do not wish to create your own measurements
 
 ## How to Use This Repository
 
